@@ -3,8 +3,8 @@ def main():
     print("Guess the number")
 
     try:
-     first = int(input("Write your first number: "))
-     second = int(input("Write your second number: "))
+     first = int(input("Write your first random number: "))
+     second = int(input("Write your second random number: "))
     except ValueError:
      print("Please write a valid value")
      return main()
