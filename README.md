@@ -1,2 +1,2 @@
-# class-repo
+# Python portfolio
 hello
